@@ -1,0 +1,10 @@
+pages\SearchResultPage.class
+utils\ElementUtils.class
+pages\AccountSuccessPage.class
+pages\LoginPage.class
+pages\WarningMessagesPage.class
+utils\configReader.class
+pages\HomePage.class
+pages\AccountPage.class
+pages\RegisterPage.class
+utils\CommonUtils.class
